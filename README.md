@@ -1,6 +1,6 @@
 # Probabilistic Fusion of Statistical Arbitrage and Machine Learning for Rebar Futures Calendar Spread
 
-This repository contains the source code, data, results, and the full paper for my research on calendar-spread arbitrage in Shanghai Futures Exchange (SHFE) Rebar (RB) futures.
+This repository contains the source code, results, and the full paper for my research on calendar-spread arbitrage in Shanghai Futures Exchange (SHFE) Rebar (RB) futures.
 
 Traditional calendar-spread arbitrage relies on the Z-score of cointegration residuals. While effective in stationary regimes, fixed-threshold rules generate false signals when the rolling equilibrium shifts. This project builds a hybrid framework that combines the statistical Z-score with Machine Learning (ML) directional probabilities. 
 
